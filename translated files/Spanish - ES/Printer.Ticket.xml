@@ -24,7 +24,7 @@
 
 <display>
 	<line><text align="left" length="10">Total</text><text align="right" length="10">${ticket.printTotal()}</text></line>
-	<line><text align="center" length="20">Gracias por su pedido</text></line>
+	<line><text align="center" length="20">Gracias por su compra</text></line>
 </display>
 
 <ticket>
@@ -165,7 +165,7 @@
 #end
 
 	<line></line>
-	<line><text align="center" length="42">Gracias por su pedido</text></line>
+	<line><text align="center" length="42">Gracias por su compra</text></line>
 	<line><text align="center" length="42">Vuelva pronto</text></line>
 
 </ticket>
